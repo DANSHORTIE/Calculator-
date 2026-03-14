@@ -2,4 +2,4 @@
 
 **Perform Simple mathematical calculations.**
 
-*+,-, and more *
+* +,-, and more *
