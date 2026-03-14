@@ -1,3 +1,3 @@
 # Calculator-
 
-Perform mathematical calculations. 
+**Perform mathematical calculations.**
